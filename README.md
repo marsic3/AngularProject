@@ -1,6 +1,10 @@
-# Knjizara
+# Angular + Spring Boot Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+
+## Demo 
+
+https://www.dropbox.com/s/l1glmdswelzwvcw/%D1%81%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA.mov?dl=0
 
 ## Development server
 
@@ -26,6 +30,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Demo 
 
-https://www.dropbox.com/s/l1glmdswelzwvcw/%D1%81%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA.mov?dl=0
